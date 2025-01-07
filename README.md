@@ -22,3 +22,5 @@ A digital forensics investigator was contacted to handle a case. He arrives at t
 
 #Consequence:
 In court, the defense attorney argues that the chain of custody was broken since the transfer wasn’t documented and the evidence wasn’t securely stored. The attorney suggests that the files could have been altered or tampered with after collection. As a result, the judge rules that the digital evidence is inadmissible, and the case against the suspect is significantly weakened or dismissed.
+
+Reference: Enisa.europa.eu
